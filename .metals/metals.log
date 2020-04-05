@@ -1,0 +1,12 @@
+2023.02.07 11:06:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/steventran/VsCode/StockBets/.metals/lsp.trace.json or /Users/steventran/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.07 11:06:31 INFO  logging to file /Users/steventran/VsCode/StockBets/.metals/metals.log
+2023.02.07 11:06:31 INFO  Started: Metals version 0.11.10 in workspace '/Users/steventran/VsCode/StockBets' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/steventran/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.07 11:06:32 INFO  time: initialize in 1.38s
+2023.02.07 11:06:33 WARN  Build server is not auto-connectable.
+2023.02.07 11:06:33 WARN  no build tool detected in workspace '/Users/steventran/VsCode/StockBets'. The most common cause for this problem is that th
