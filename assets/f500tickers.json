@@ -1,0 +1,13 @@
+[
+  { "Name": "3M", "Sector": "Industrials", "Symbol": "MMM" },
+  { "Name": "A. O. Smith", "Sector": "Industrials", "Symbol": "AOS" },
+  { "Name": "Abbott Laboratories", "Sector": "Health Care", "Symbol": "ABT" },
+  { "Name": "AbbVie", "Sector": "Health Care", "Symbol": "ABBV" },
+  { "Name": "Abiomed", "Sector": "Health Care", "Symbol": "ABMD" },
+  { "Name": "Accenture", "Sector": "Information Technology", "Symbol": "ACN" },
+  {
+    "Name": "Activision Blizzard",
+    "Sector": "Communication Services",
+    "Symbol": "ATVI"
+  },
+  { "Name": "ADM", "Sector": "Consumer Staples", "Sym

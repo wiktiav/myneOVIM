@@ -32,4 +32,6 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.02.16 15:56:21 WARN  no build tool detected in workspace '/Users/steventran/VsCode/StockBets'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Feb 16, 2023 3:56:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
-Feb 16, 2023 3:56:31 PM org.eclipse.lsp4j.js
+Feb 16, 2023 3:56:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.16 15:57:55 INFO  shutting down Metals
