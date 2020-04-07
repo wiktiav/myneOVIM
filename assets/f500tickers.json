@@ -48,3 +48,34 @@
   { "Name": "Allstate Corp", "Sector": "Financials", "Symbol": "ALL" },
   {
     "Name": "Alphabet (Class A)",
+    "Sector": "Communication Services",
+    "Symbol": "GOOGL"
+  },
+  {
+    "Name": "Alphabet (Class C)",
+    "Sector": "Communication Services",
+    "Symbol": "GOOG"
+  },
+  { "Name": "Altria Group", "Sector": "Consumer Staples", "Symbol": "MO" },
+  { "Name": "Amazon", "Sector": "Consumer Discretionary", "Symbol": "AMZN" },
+  { "Name": "Amcor", "Sector": "Materials", "Symbol": "AMCR" },
+  { "Name": "Ameren Corp", "Sector": "Utilities", "Symbol": "AEE" },
+  {
+    "Name": "American Airlines Group",
+    "Sector": "Industrials",
+    "Symbol": "AAL"
+  },
+  { "Name": "American Electric Power", "Sector": "Utilities", "Symbol": "AEP" },
+  { "Name": "American Express", "Sector": "Financials", "Symbol": "AXP" },
+  {
+    "Name": "American International Group",
+    "Sector": "Financials",
+    "Symbol": "AIG"
+  },
+  { "Name": "American Tower", "Sector": "Real Estate", "Symbol": "AMT" },
+  { "Name": "American Water Works", "Sector": "Utilities", "Symbol": "AWK" },
+  { "Name": "Ameriprise Financial", "Sector": "Financials", "Symbol": "AMP" },
+  { "Name": "AmerisourceBergen", "Sector": "Health Care", "Symbol": "ABC" },
+  { "Name": "Ametek", "Sector": "Industrials", "Symbol": "AME" },
+  { "Name": "Amgen", "Sector": "Health Care", "Symbol": "AMGN" },
+  { "Name": "Amphenol", "Sector": "Infor
