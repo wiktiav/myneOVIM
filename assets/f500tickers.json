@@ -10,4 +10,41 @@
     "Sector": "Communication Services",
     "Symbol": "ATVI"
   },
-  { "Name": "ADM", "Sector": "Consumer Staples", "Sym
+  { "Name": "ADM", "Sector": "Consumer Staples", "Symbol": "ADM" },
+  { "Name": "Adobe", "Sector": "Information Technology", "Symbol": "ADBE" },
+  {
+    "Name": "Advance Auto Parts",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "AAP"
+  },
+  {
+    "Name": "Advanced Micro Devices",
+    "Sector": "Information Technology",
+    "Symbol": "AMD"
+  },
+  { "Name": "AES Corp", "Sector": "Utilities", "Symbol": "AES" },
+  { "Name": "Aflac", "Sector": "Financials", "Symbol": "AFL" },
+  { "Name": "Agilent Technologies", "Sector": "Health Care", "Symbol": "A" },
+  {
+    "Name": "Air Products & Chemicals",
+    "Sector": "Materials",
+    "Symbol": "APD"
+  },
+  {
+    "Name": "Akamai Technologies",
+    "Sector": "Information Technology",
+    "Symbol": "AKAM"
+  },
+  { "Name": "Alaska Air Group", "Sector": "Industrials", "Symbol": "ALK" },
+  { "Name": "Albemarle Corporation", "Sector": "Materials", "Symbol": "ALB" },
+  {
+    "Name": "Alexandria Real Estate Equities",
+    "Sector": "Real Estate",
+    "Symbol": "ARE"
+  },
+  { "Name": "Align Technology", "Sector": "Health Care", "Symbol": "ALGN" },
+  { "Name": "Allegion", "Sector": "Industrials", "Symbol": "ALLE" },
+  { "Name": "Alliant Energy", "Sector": "Utilities", "Symbol": "LNT" },
+  { "Name": "Allstate Corp", "Sector": "Financials", "Symbol": "ALL" },
+  {
+    "Name": "Alphabet (Class A)",
