@@ -78,4 +78,40 @@
   { "Name": "AmerisourceBergen", "Sector": "Health Care", "Symbol": "ABC" },
   { "Name": "Ametek", "Sector": "Industrials", "Symbol": "AME" },
   { "Name": "Amgen", "Sector": "Health Care", "Symbol": "AMGN" },
-  { "Name": "Amphenol", "Sector": "Infor
+  { "Name": "Amphenol", "Sector": "Information Technology", "Symbol": "APH" },
+  {
+    "Name": "Analog Devices",
+    "Sector": "Information Technology",
+    "Symbol": "ADI"
+  },
+  { "Name": "Ansys", "Sector": "Information Technology", "Symbol": "ANSS" },
+  { "Name": "Anthem", "Sector": "Health Care", "Symbol": "ANTM" },
+  { "Name": "Aon", "Sector": "Financials", "Symbol": "AON" },
+  { "Name": "APA Corporation", "Sector": "Energy", "Symbol": "APA" },
+  { "Name": "Apple", "Sector": "Information Technology", "Symbol": "AAPL" },
+  {
+    "Name": "Applied Materials",
+    "Sector": "Information Technology",
+    "Symbol": "AMAT"
+  },
+  { "Name": "Aptiv", "Sector": "Consumer Discretionary", "Symbol": "APTV" },
+  {
+    "Name": "Arista Networks",
+    "Sector": "Information Technology",
+    "Symbol": "ANET"
+  },
+  {
+    "Name": "Arthur J. Gallagher & Co.",
+    "Sector": "Financials",
+    "Symbol": "AJG"
+  },
+  { "Name": "Assurant", "Sector": "Financials", "Symbol": "AIZ" },
+  { "Name": "AT&T", "Sector": "Communication Services", "Symbol": "T" },
+  { "Name": "Atmos Energy", "Sector": "Utilities", "Symbol": "ATO" },
+  { "Name": "Autodesk", "Sector": "Information Technology", "Symbol": "ADSK" },
+  {
+    "Name": "Automatic Data Processing",
+    "Sector": "Information Technology",
+    "Symbol": "ADP"
+  },
+  { "Name": "Aut
