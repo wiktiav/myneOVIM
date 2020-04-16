@@ -137,4 +137,39 @@
   { "Name": "Boeing", "Sector": "Industrials", "Symbol": "BA" },
   {
     "Name": "Booking Holdings",
-    "Sector": "Consumer Dis
+    "Sector": "Consumer Discretionary",
+    "Symbol": "BKNG"
+  },
+  { "Name": "BorgWarner", "Sector": "Consumer Discretionary", "Symbol": "BWA" },
+  { "Name": "Boston Properties", "Sector": "Real Estate", "Symbol": "BXP" },
+  { "Name": "Boston Scientific", "Sector": "Health Care", "Symbol": "BSX" },
+  { "Name": "Bristol Myers Squibb", "Sector": "Health Care", "Symbol": "BMY" },
+  { "Name": "Broadcom", "Sector": "Information Technology", "Symbol": "AVGO" },
+  {
+    "Name": "Broadridge Financial Solutions",
+    "Sector": "Information Technology",
+    "Symbol": "BR"
+  },
+  { "Name": "Brown & Brown", "Sector": "Financials", "Symbol": "BRO" },
+  {
+    "Name": "Brown\u2013Forman",
+    "Sector": "Consumer Staples",
+    "Symbol": "BF.B"
+  },
+  { "Name": "C. H. Robinson", "Sector": "Industrials", "Symbol": "CHRW" },
+  {
+    "Name": "Cadence Design Systems",
+    "Sector": "Information Technology",
+    "Symbol": "CDNS"
+  },
+  {
+    "Name": "Caesars Entertainment",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "CZR"
+  },
+  { "Name": "Campbell Soup", "Sector": "Consumer Staples", "Symbol": "CPB" },
+  { "Name": "Capital One Financial", "Sector": "Financials", "Symbol": "COF" },
+  { "Name": "Cardinal Health", "Sector": "Health Care", "Symbol": "CAH" },
+  { "Name": "CarMax", "Sector": "Consumer Discretionary", "Symbol": "KMX" },
+  {
+    "Name": "Carnival Corporation",
