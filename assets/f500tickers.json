@@ -173,3 +173,34 @@
   { "Name": "CarMax", "Sector": "Consumer Discretionary", "Symbol": "KMX" },
   {
     "Name": "Carnival Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "CCL"
+  },
+  { "Name": "Carrier Global", "Sector": "Industrials", "Symbol": "CARR" },
+  { "Name": "Catalent", "Sector": "Health Care", "Symbol": "CTLT" },
+  { "Name": "Caterpillar", "Sector": "Industrials", "Symbol": "CAT" },
+  { "Name": "Cboe Global Markets", "Sector": "Financials", "Symbol": "CBOE" },
+  { "Name": "CBRE", "Sector": "Real Estate", "Symbol": "CBRE" },
+  { "Name": "CDW", "Sector": "Information Technology", "Symbol": "CDW" },
+  { "Name": "Celanese", "Sector": "Materials", "Symbol": "CE" },
+  { "Name": "Centene Corporation", "Sector": "Health Care", "Symbol": "CNC" },
+  { "Name": "CenterPoint Energy", "Sector": "Utilities", "Symbol": "CNP" },
+  { "Name": "Ceridian", "Sector": "Information Technology", "Symbol": "CDAY" },
+  { "Name": "Cerner", "Sector": "Health Care", "Symbol": "CERN" },
+  { "Name": "CF Industries", "Sector": "Materials", "Symbol": "CF" },
+  {
+    "Name": "Charles River Laboratories",
+    "Sector": "Health Care",
+    "Symbol": "CRL"
+  },
+  {
+    "Name": "Charles Schwab Corporation",
+    "Sector": "Financials",
+    "Symbol": "SCHW"
+  },
+  {
+    "Name": "Charter Communications",
+    "Sector": "Communication Services",
+    "Symbol": "CHTR"
+  },
+  { "Nam
