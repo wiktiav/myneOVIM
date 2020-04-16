@@ -114,4 +114,27 @@
     "Sector": "Information Technology",
     "Symbol": "ADP"
   },
-  { "Name": "Aut
+  { "Name": "AutoZone", "Sector": "Consumer Discretionary", "Symbol": "AZO" },
+  { "Name": "AvalonBay Communities", "Sector": "Real Estate", "Symbol": "AVB" },
+  { "Name": "Avery Dennison", "Sector": "Materials", "Symbol": "AVY" },
+  { "Name": "Baker Hughes", "Sector": "Energy", "Symbol": "BKR" },
+  { "Name": "Ball Corp", "Sector": "Materials", "Symbol": "BLL" },
+  { "Name": "Bank of America", "Sector": "Financials", "Symbol": "BAC" },
+  {
+    "Name": "Bath & Body Works Inc.",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "BBWI"
+  },
+  { "Name": "Baxter International", "Sector": "Health Care", "Symbol": "BAX" },
+  { "Name": "Becton Dickinson", "Sector": "Health Care", "Symbol": "BDX" },
+  { "Name": "Berkshire Hathaway", "Sector": "Financials", "Symbol": "BRK.B" },
+  { "Name": "Best Buy", "Sector": "Consumer Discretionary", "Symbol": "BBY" },
+  { "Name": "Bio-Rad Laboratories", "Sector": "Health Care", "Symbol": "BIO" },
+  { "Name": "Bio-Techne", "Sector": "Health Care", "Symbol": "TECH" },
+  { "Name": "Biogen", "Sector": "Health Care", "Symbol": "BIIB" },
+  { "Name": "BlackRock", "Sector": "Financials", "Symbol": "BLK" },
+  { "Name": "BNY Mellon", "Sector": "Financials", "Symbol": "BK" },
+  { "Name": "Boeing", "Sector": "Industrials", "Symbol": "BA" },
+  {
+    "Name": "Booking Holdings",
+    "Sector": "Consumer Dis
