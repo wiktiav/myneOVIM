@@ -203,4 +203,40 @@
     "Sector": "Communication Services",
     "Symbol": "CHTR"
   },
-  { "Nam
+  { "Name": "Chevron Corporation", "Sector": "Energy", "Symbol": "CVX" },
+  {
+    "Name": "Chipotle Mexican Grill",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "CMG"
+  },
+  { "Name": "Chubb", "Sector": "Financials", "Symbol": "CB" },
+  { "Name": "Church & Dwight", "Sector": "Consumer Staples", "Symbol": "CHD" },
+  { "Name": "Cigna", "Sector": "Health Care", "Symbol": "CI" },
+  { "Name": "Cincinnati Financial", "Sector": "Financials", "Symbol": "CINF" },
+  { "Name": "Cintas Corporation", "Sector": "Industrials", "Symbol": "CTAS" },
+  {
+    "Name": "Cisco Systems",
+    "Sector": "Information Technology",
+    "Symbol": "CSCO"
+  },
+  { "Name": "Citigroup", "Sector": "Financials", "Symbol": "C" },
+  {
+    "Name": "Citizens Financial Group",
+    "Sector": "Financials",
+    "Symbol": "CFG"
+  },
+  {
+    "Name": "Citrix Systems",
+    "Sector": "Information Technology",
+    "Symbol": "CTXS"
+  },
+  { "Name": "Clorox", "Sector": "Consumer Staples", "Symbol": "CLX" },
+  { "Name": "CME Group", "Sector": "Financials", "Symbol": "CME" },
+  { "Name": "CMS Energy", "Sector": "Utilities", "Symbol": "CMS" },
+  { "Name": "Coca-Cola Company", "Sector": "Consumer Staples", "Symbol": "KO" },
+  {
+    "Name": "Cognizant Technology Solutions",
+    "Sector": "Information Technology",
+    "Symbol": "CTSH"
+  },
+  { "Name": "Colgate-Palmolive", "Sector": "Consumer St
