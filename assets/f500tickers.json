@@ -239,4 +239,31 @@
     "Sector": "Information Technology",
     "Symbol": "CTSH"
   },
-  { "Name": "Colgate-Palmolive", "Sector": "Consumer St
+  { "Name": "Colgate-Palmolive", "Sector": "Consumer Staples", "Symbol": "CL" },
+  { "Name": "Comcast", "Sector": "Communication Services", "Symbol": "CMCSA" },
+  { "Name": "Comerica", "Sector": "Financials", "Symbol": "CMA" },
+  { "Name": "Conagra Brands", "Sector": "Consumer Staples", "Symbol": "CAG" },
+  { "Name": "ConocoPhillips", "Sector": "Energy", "Symbol": "COP" },
+  { "Name": "Consolidated Edison", "Sector": "Utilities", "Symbol": "ED" },
+  {
+    "Name": "Constellation Brands",
+    "Sector": "Consumer Staples",
+    "Symbol": "STZ"
+  },
+  { "Name": "Copart", "Sector": "Industrials", "Symbol": "CPRT" },
+  { "Name": "Corning", "Sector": "Information Technology", "Symbol": "GLW" },
+  { "Name": "Corteva", "Sector": "Materials", "Symbol": "CTVA" },
+  { "Name": "Costco", "Sector": "Consumer Staples", "Symbol": "COST" },
+  { "Name": "Coterra", "Sector": "Energy", "Symbol": "CTRA" },
+  { "Name": "Crown Castle", "Sector": "Real Estate", "Symbol": "CCI" },
+  { "Name": "CSX", "Sector": "Industrials", "Symbol": "CSX" },
+  { "Name": "Cummins", "Sector": "Industrials", "Symbol": "CMI" },
+  { "Name": "CVS Health", "Sector": "Health Care", "Symbol": "CVS" },
+  {
+    "Name": "D. R. Horton",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DHI"
+  },
+  { "Name": "Danaher Corporation", "Sector": "Health Care", "Symbol": "DHR" },
+  {
+    "Name": "Darden Restaurants
