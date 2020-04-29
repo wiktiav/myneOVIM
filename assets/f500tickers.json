@@ -369,4 +369,34 @@
     "Symbol": "EXPE"
   },
   { "Name": "Expeditors", "Sector": "Industrials", "Symbol": "EXPD" },
-  { "Name": "Extra Space Storage", "Sector": "Real Estate", "Symb
+  { "Name": "Extra Space Storage", "Sector": "Real Estate", "Symbol": "EXR" },
+  { "Name": "ExxonMobil", "Sector": "Energy", "Symbol": "XOM" },
+  {
+    "Name": "F5 Networks",
+    "Sector": "Information Technology",
+    "Symbol": "FFIV"
+  },
+  { "Name": "Facebook", "Sector": "Communication Services", "Symbol": "FB" },
+  { "Name": "Fastenal", "Sector": "Industrials", "Symbol": "FAST" },
+  {
+    "Name": "Federal Realty Investment Trust",
+    "Sector": "Real Estate",
+    "Symbol": "FRT"
+  },
+  { "Name": "FedEx", "Sector": "Industrials", "Symbol": "FDX" },
+  {
+    "Name": "Fidelity National Information Services",
+    "Sector": "Information Technology",
+    "Symbol": "FIS"
+  },
+  { "Name": "Fifth Third Bancorp", "Sector": "Financials", "Symbol": "FITB" },
+  { "Name": "First Republic Bank", "Sector": "Financials", "Symbol": "FRC" },
+  { "Name": "FirstEnergy", "Sector": "Utilities", "Symbol": "FE" },
+  { "Name": "Fiserv", "Sector": "Information Technology", "Symbol": "FISV" },
+  { "Name": "Fleetcor", "Sector": "Information Technology", "Symbol": "FLT" },
+  { "Name": "FMC Corporation", "Sector": "Materials", "Symbol": "FMC" },
+  { "Name": "Ford", "Sector": "Consumer Discretionary", "Symbol": "F" },
+  { "Name": "Fortinet", "Sector": "Information Technology", "Symbol": "FTNT" },
+  { "Name": "Fortive", "Sector": "Industrials", "Symbol": "FTV" },
+  {
+    "Name": 
