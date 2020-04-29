@@ -338,4 +338,35 @@
   },
   { "Name": "Eli Lilly & Co", "Sector": "Health Care", "Symbol": "LLY" },
   {
-    "Name": "Emerson Electric 
+    "Name": "Emerson Electric Company",
+    "Sector": "Industrials",
+    "Symbol": "EMR"
+  },
+  {
+    "Name": "Enphase Energy",
+    "Sector": "Information Technology",
+    "Symbol": "ENPH"
+  },
+  { "Name": "Entergy", "Sector": "Utilities", "Symbol": "ETR" },
+  { "Name": "EOG Resources", "Sector": "Energy", "Symbol": "EOG" },
+  { "Name": "Equifax", "Sector": "Industrials", "Symbol": "EFX" },
+  { "Name": "Equinix", "Sector": "Real Estate", "Symbol": "EQIX" },
+  { "Name": "Equity Residential", "Sector": "Real Estate", "Symbol": "EQR" },
+  { "Name": "Essex Property Trust", "Sector": "Real Estate", "Symbol": "ESS" },
+  {
+    "Name": "Est\u00e9e Lauder Companies",
+    "Sector": "Consumer Staples",
+    "Symbol": "EL"
+  },
+  { "Name": "Etsy", "Sector": "Consumer Discretionary", "Symbol": "ETSY" },
+  { "Name": "Everest Re", "Sector": "Financials", "Symbol": "RE" },
+  { "Name": "Evergy", "Sector": "Utilities", "Symbol": "EVRG" },
+  { "Name": "Eversource Energy", "Sector": "Utilities", "Symbol": "ES" },
+  { "Name": "Exelon", "Sector": "Utilities", "Symbol": "EXC" },
+  {
+    "Name": "Expedia Group",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "EXPE"
+  },
+  { "Name": "Expeditors", "Sector": "Industrials", "Symbol": "EXPD" },
+  { "Name": "Extra Space Storage", "Sector": "Real Estate", "Symb
