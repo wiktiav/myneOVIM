@@ -308,4 +308,34 @@
     "Sector": "Consumer Discretionary",
     "Symbol": "DLTR"
   },
-  { "Name":
+  { "Name": "Dominion Energy", "Sector": "Utilities", "Symbol": "D" },
+  {
+    "Name": "Domino's Pizza",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DPZ"
+  },
+  { "Name": "Dover Corporation", "Sector": "Industrials", "Symbol": "DOV" },
+  { "Name": "Dow", "Sector": "Materials", "Symbol": "DOW" },
+  { "Name": "DTE Energy", "Sector": "Utilities", "Symbol": "DTE" },
+  { "Name": "Duke Energy", "Sector": "Utilities", "Symbol": "DUK" },
+  { "Name": "Duke Realty Corp", "Sector": "Real Estate", "Symbol": "DRE" },
+  { "Name": "DuPont", "Sector": "Materials", "Symbol": "DD" },
+  {
+    "Name": "DXC Technology",
+    "Sector": "Information Technology",
+    "Symbol": "DXC"
+  },
+  { "Name": "Eastman Chemical", "Sector": "Materials", "Symbol": "EMN" },
+  { "Name": "Eaton Corporation", "Sector": "Industrials", "Symbol": "ETN" },
+  { "Name": "eBay", "Sector": "Consumer Discretionary", "Symbol": "EBAY" },
+  { "Name": "Ecolab", "Sector": "Materials", "Symbol": "ECL" },
+  { "Name": "Edison International", "Sector": "Utilities", "Symbol": "EIX" },
+  { "Name": "Edwards Lifesciences", "Sector": "Health Care", "Symbol": "EW" },
+  {
+    "Name": "Electronic Arts",
+    "Sector": "Communication Services",
+    "Symbol": "EA"
+  },
+  { "Name": "Eli Lilly & Co", "Sector": "Health Care", "Symbol": "LLY" },
+  {
+    "Name": "Emerson Electric 
