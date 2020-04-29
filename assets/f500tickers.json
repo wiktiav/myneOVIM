@@ -266,4 +266,46 @@
   },
   { "Name": "Danaher Corporation", "Sector": "Health Care", "Symbol": "DHR" },
   {
-    "Name": "Darden Restaurants
+    "Name": "Darden Restaurants",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DRI"
+  },
+  { "Name": "DaVita", "Sector": "Health Care", "Symbol": "DVA" },
+  { "Name": "Deere & Co.", "Sector": "Industrials", "Symbol": "DE" },
+  { "Name": "Delta Air Lines", "Sector": "Industrials", "Symbol": "DAL" },
+  { "Name": "Dentsply Sirona", "Sector": "Health Care", "Symbol": "XRAY" },
+  { "Name": "Devon Energy", "Sector": "Energy", "Symbol": "DVN" },
+  { "Name": "DexCom", "Sector": "Health Care", "Symbol": "DXCM" },
+  { "Name": "Diamondback Energy", "Sector": "Energy", "Symbol": "FANG" },
+  { "Name": "Digital Realty Trust", "Sector": "Real Estate", "Symbol": "DLR" },
+  {
+    "Name": "Discover Financial Services",
+    "Sector": "Financials",
+    "Symbol": "DFS"
+  },
+  {
+    "Name": "Discovery (Series A)",
+    "Sector": "Communication Services",
+    "Symbol": "DISCA"
+  },
+  {
+    "Name": "Discovery (Series C)",
+    "Sector": "Communication Services",
+    "Symbol": "DISCK"
+  },
+  {
+    "Name": "Dish Network",
+    "Sector": "Communication Services",
+    "Symbol": "DISH"
+  },
+  {
+    "Name": "Dollar General",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DG"
+  },
+  {
+    "Name": "Dollar Tree",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DLTR"
+  },
+  { "Name":
