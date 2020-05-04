@@ -399,4 +399,37 @@
   { "Name": "Fortinet", "Sector": "Information Technology", "Symbol": "FTNT" },
   { "Name": "Fortive", "Sector": "Industrials", "Symbol": "FTV" },
   {
-    "Name": 
+    "Name": "Fortune Brands Home & Security",
+    "Sector": "Industrials",
+    "Symbol": "FBHS"
+  },
+  {
+    "Name": "Fox Corporation (Class A)",
+    "Sector": "Communication Services",
+    "Symbol": "FOXA"
+  },
+  {
+    "Name": "Fox Corporation (Class B)",
+    "Sector": "Communication Services",
+    "Symbol": "FOX"
+  },
+  { "Name": "Franklin Resources", "Sector": "Financials", "Symbol": "BEN" },
+  { "Name": "Freeport-McMoRan", "Sector": "Materials", "Symbol": "FCX" },
+  { "Name": "Gap", "Sector": "Consumer Discretionary", "Symbol": "GPS" },
+  { "Name": "Garmin", "Sector": "Consumer Discretionary", "Symbol": "GRMN" },
+  { "Name": "Gartner", "Sector": "Information Technology", "Symbol": "IT" },
+  { "Name": "Generac Holdings", "Sector": "Industrials", "Symbol": "GNRC" },
+  { "Name": "General Dynamics", "Sector": "Industrials", "Symbol": "GD" },
+  { "Name": "General Electric", "Sector": "Industrials", "Symbol": "GE" },
+  { "Name": "General Mills", "Sector": "Consumer Staples", "Symbol": "GIS" },
+  {
+    "Name": "General Motors",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "GM"
+  },
+  {
+    "Name": "Genuine Parts",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "GPC"
+  },
+  { "Name": "Gilead Sciences", "Sector": "Health Care", "Symbol": "GI
