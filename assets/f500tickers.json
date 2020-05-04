@@ -432,4 +432,40 @@
     "Sector": "Consumer Discretionary",
     "Symbol": "GPC"
   },
-  { "Name": "Gilead Sciences", "Sector": "Health Care", "Symbol": "GI
+  { "Name": "Gilead Sciences", "Sector": "Health Care", "Symbol": "GILD" },
+  {
+    "Name": "Global Payments",
+    "Sector": "Information Technology",
+    "Symbol": "GPN"
+  },
+  { "Name": "Globe Life", "Sector": "Financials", "Symbol": "GL" },
+  { "Name": "Goldman Sachs", "Sector": "Financials", "Symbol": "GS" },
+  { "Name": "Halliburton", "Sector": "Energy", "Symbol": "HAL" },
+  {
+    "Name": "Hanesbrands",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "HBI"
+  },
+  { "Name": "Hasbro", "Sector": "Consumer Discretionary", "Symbol": "HAS" },
+  { "Name": "HCA Healthcare", "Sector": "Health Care", "Symbol": "HCA" },
+  {
+    "Name": "Healthpeak Properties",
+    "Sector": "Real Estate",
+    "Symbol": "PEAK"
+  },
+  { "Name": "Henry Schein", "Sector": "Health Care", "Symbol": "HSIC" },
+  { "Name": "Hess Corporation", "Sector": "Energy", "Symbol": "HES" },
+  {
+    "Name": "Hewlett Packard Enterprise",
+    "Sector": "Information Technology",
+    "Symbol": "HPE"
+  },
+  {
+    "Name": "Hilton Worldwide",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "HLT"
+  },
+  { "Name": "Hologic", "Sector": "Health Care", "Symbol": "HOLX" },
+  { "Name": "Home Depot", "Sector": "Consumer Discretionary", "Symbol": "HD" },
+  { "Name": "Honeywell", "Sector": "Industrials", "Symbol": "HON" },
+  { "Name": "Hormel", "Sector": "Consumer
