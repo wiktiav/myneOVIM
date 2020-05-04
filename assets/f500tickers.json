@@ -468,4 +468,32 @@
   { "Name": "Hologic", "Sector": "Health Care", "Symbol": "HOLX" },
   { "Name": "Home Depot", "Sector": "Consumer Discretionary", "Symbol": "HD" },
   { "Name": "Honeywell", "Sector": "Industrials", "Symbol": "HON" },
-  { "Name": "Hormel", "Sector": "Consumer
+  { "Name": "Hormel", "Sector": "Consumer Staples", "Symbol": "HRL" },
+  { "Name": "Host Hotels & Resorts", "Sector": "Real Estate", "Symbol": "HST" },
+  { "Name": "Howmet Aerospace", "Sector": "Industrials", "Symbol": "HWM" },
+  { "Name": "HP", "Sector": "Information Technology", "Symbol": "HPQ" },
+  { "Name": "Humana", "Sector": "Health Care", "Symbol": "HUM" },
+  { "Name": "Huntington Bancshares", "Sector": "Financials", "Symbol": "HBAN" },
+  {
+    "Name": "Huntington Ingalls Industries",
+    "Sector": "Industrials",
+    "Symbol": "HII"
+  },
+  { "Name": "IBM", "Sector": "Information Technology", "Symbol": "IBM" },
+  { "Name": "IDEX Corporation", "Sector": "Industrials", "Symbol": "IEX" },
+  { "Name": "Idexx Laboratories", "Sector": "Health Care", "Symbol": "IDXX" },
+  { "Name": "IHS Markit", "Sector": "Industrials", "Symbol": "INFO" },
+  { "Name": "Illinois Tool Works", "Sector": "Industrials", "Symbol": "ITW" },
+  { "Name": "Illumina", "Sector": "Health Care", "Symbol": "ILMN" },
+  { "Name": "Incyte", "Sector": "Health Care", "Symbol": "INCY" },
+  { "Name": "Ingersoll Rand", "Sector": "Industrials", "Symbol": "IR" },
+  { "Name": "Intel", "Sector": "Information Technology", "Symbol": "INTC" },
+  {
+    "Name": "Intercontinental Exchange",
+    "Sector": "Financials",
+    "Symbol": "ICE"
+  },
+  {
+    "Name": "International Flavors & Fragrances",
+    "Sector": "Materials",
+    "
