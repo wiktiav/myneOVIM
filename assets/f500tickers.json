@@ -496,4 +496,40 @@
   {
     "Name": "International Flavors & Fragrances",
     "Sector": "Materials",
-    "
+    "Symbol": "IFF"
+  },
+  { "Name": "International Paper", "Sector": "Materials", "Symbol": "IP" },
+  {
+    "Name": "Interpublic Group",
+    "Sector": "Communication Services",
+    "Symbol": "IPG"
+  },
+  { "Name": "Intuit", "Sector": "Information Technology", "Symbol": "INTU" },
+  { "Name": "Intuitive Surgical", "Sector": "Health Care", "Symbol": "ISRG" },
+  { "Name": "Invesco", "Sector": "Financials", "Symbol": "IVZ" },
+  {
+    "Name": "IPG Photonics",
+    "Sector": "Information Technology",
+    "Symbol": "IPGP"
+  },
+  { "Name": "IQVIA", "Sector": "Health Care", "Symbol": "IQV" },
+  { "Name": "Iron Mountain", "Sector": "Real Estate", "Symbol": "IRM" },
+  { "Name": "J. B. Hunt", "Sector": "Industrials", "Symbol": "JBHT" },
+  {
+    "Name": "Jack Henry & Associates",
+    "Sector": "Information Technology",
+    "Symbol": "JKHY"
+  },
+  {
+    "Name": "Jacobs Engineering Group",
+    "Sector": "Industrials",
+    "Symbol": "J"
+  },
+  { "Name": "JM Smucker", "Sector": "Consumer Staples", "Symbol": "SJM" },
+  { "Name": "Johnson & Johnson", "Sector": "Health Care", "Symbol": "JNJ" },
+  { "Name": "Johnson Controls", "Sector": "Industrials", "Symbol": "JCI" },
+  { "Name": "JPMorgan Chase", "Sector": "Financials", "Symbol": "JPM" },
+  {
+    "Name": "Juniper Networks",
+    "Sector": "Information Technology",
+    "Symbol":
