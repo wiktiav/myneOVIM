@@ -532,4 +532,41 @@
   {
     "Name": "Juniper Networks",
     "Sector": "Information Technology",
-    "Symbol":
+    "Symbol": "JNPR"
+  },
+  { "Name": "Kansas City Southern", "Sector": "Industrials", "Symbol": "KSU" },
+  { "Name": "Kellogg's", "Sector": "Consumer Staples", "Symbol": "K" },
+  { "Name": "KeyCorp", "Sector": "Financials", "Symbol": "KEY" },
+  {
+    "Name": "Keysight Technologies",
+    "Sector": "Information Technology",
+    "Symbol": "KEYS"
+  },
+  { "Name": "Kimberly-Clark", "Sector": "Consumer Staples", "Symbol": "KMB" },
+  { "Name": "Kimco Realty", "Sector": "Real Estate", "Symbol": "KIM" },
+  { "Name": "Kinder Morgan", "Sector": "Energy", "Symbol": "KMI" },
+  {
+    "Name": "KLA Corporation",
+    "Sector": "Information Technology",
+    "Symbol": "KLAC"
+  },
+  { "Name": "Kraft Heinz", "Sector": "Consumer Staples", "Symbol": "KHC" },
+  { "Name": "Kroger", "Sector": "Consumer Staples", "Symbol": "KR" },
+  { "Name": "L3Harris Technologies", "Sector": "Industrials", "Symbol": "LHX" },
+  { "Name": "LabCorp", "Sector": "Health Care", "Symbol": "LH" },
+  {
+    "Name": "Lam Research",
+    "Sector": "Information Technology",
+    "Symbol": "LRCX"
+  },
+  { "Name": "Lamb Weston", "Sector": "Consumer Staples", "Symbol": "LW" },
+  {
+    "Name": "Las Vegas Sands",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "LVS"
+  },
+  {
+    "Name": "Leggett & Platt",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "LEG"
+  },
