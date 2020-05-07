@@ -570,3 +570,36 @@
     "Sector": "Consumer Discretionary",
     "Symbol": "LEG"
   },
+  { "Name": "Leidos", "Sector": "Industrials", "Symbol": "LDOS" },
+  { "Name": "Lennar", "Sector": "Consumer Discretionary", "Symbol": "LEN" },
+  { "Name": "Lincoln National", "Sector": "Financials", "Symbol": "LNC" },
+  { "Name": "Linde", "Sector": "Materials", "Symbol": "LIN" },
+  {
+    "Name": "Live Nation Entertainment",
+    "Sector": "Communication Services",
+    "Symbol": "LYV"
+  },
+  {
+    "Name": "LKQ Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "LKQ"
+  },
+  { "Name": "Lockheed Martin", "Sector": "Industrials", "Symbol": "LMT" },
+  { "Name": "Loews Corporation", "Sector": "Financials", "Symbol": "L" },
+  { "Name": "Lowe's", "Sector": "Consumer Discretionary", "Symbol": "LOW" },
+  {
+    "Name": "Lumen Technologies",
+    "Sector": "Communication Services",
+    "Symbol": "LUMN"
+  },
+  { "Name": "LyondellBasell", "Sector": "Materials", "Symbol": "LYB" },
+  { "Name": "M&T Bank", "Sector": "Financials", "Symbol": "MTB" },
+  { "Name": "Marathon Oil", "Sector": "Energy", "Symbol": "MRO" },
+  { "Name": "Marathon Petroleum", "Sector": "Energy", "Symbol": "MPC" },
+  { "Name": "MarketAxess", "Sector": "Financials", "Symbol": "MKTX" },
+  {
+    "Name": "Marriott International",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "MAR"
+  },
+  { "Name": "Marsh & McLennan", "Secto
