@@ -686,4 +686,38 @@
   { "Name": "Netflix", "Sector": "Communication Services", "Symbol": "NFLX" },
   {
     "Name": "Newell Brands",
-    "Sector": "Consumer Discreti
+    "Sector": "Consumer Discretionary",
+    "Symbol": "NWL"
+  },
+  { "Name": "Newmont", "Sector": "Materials", "Symbol": "NEM" },
+  {
+    "Name": "News Corp (Class A)",
+    "Sector": "Communication Services",
+    "Symbol": "NWSA"
+  },
+  {
+    "Name": "News Corp (Class B)",
+    "Sector": "Communication Services",
+    "Symbol": "NWS"
+  },
+  { "Name": "NextEra Energy", "Sector": "Utilities", "Symbol": "NEE" },
+  { "Name": "Nielsen Holdings", "Sector": "Industrials", "Symbol": "NLSN" },
+  { "Name": "Nike", "Sector": "Consumer Discretionary", "Symbol": "NKE" },
+  { "Name": "NiSource", "Sector": "Utilities", "Symbol": "NI" },
+  { "Name": "Norfolk Southern", "Sector": "Industrials", "Symbol": "NSC" },
+  { "Name": "Northern Trust", "Sector": "Financials", "Symbol": "NTRS" },
+  { "Name": "Northrop Grumman", "Sector": "Industrials", "Symbol": "NOC" },
+  {
+    "Name": "NortonLifeLock",
+    "Sector": "Information Technology",
+    "Symbol": "NLOK"
+  },
+  {
+    "Name": "Norwegian Cruise Line Holdings",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "NCLH"
+  },
+  { "Name": "NRG Energy", "Sector": "Utilities", "Symbol": "NRG" },
+  { "Name": "Nucor", "Sector": "Materials", "Symbol": "NUE" },
+  { "Name": "Nvidia", "Sector": "Information Technology", "Symbol": "NVDA" },
+ 
