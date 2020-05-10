@@ -602,4 +602,43 @@
     "Sector": "Consumer Discretionary",
     "Symbol": "MAR"
   },
-  { "Name": "Marsh & McLennan", "Secto
+  { "Name": "Marsh & McLennan", "Sector": "Financials", "Symbol": "MMC" },
+  {
+    "Name": "Martin Marietta Materials",
+    "Sector": "Materials",
+    "Symbol": "MLM"
+  },
+  { "Name": "Masco", "Sector": "Industrials", "Symbol": "MAS" },
+  { "Name": "Mastercard", "Sector": "Information Technology", "Symbol": "MA" },
+  {
+    "Name": "Match Group",
+    "Sector": "Communication Services",
+    "Symbol": "MTCH"
+  },
+  {
+    "Name": "McCormick & Company",
+    "Sector": "Consumer Staples",
+    "Symbol": "MKC"
+  },
+  { "Name": "McDonald's", "Sector": "Consumer Discretionary", "Symbol": "MCD" },
+  { "Name": "McKesson Corporation", "Sector": "Health Care", "Symbol": "MCK" },
+  { "Name": "Medtronic", "Sector": "Health Care", "Symbol": "MDT" },
+  { "Name": "Merck & Co.", "Sector": "Health Care", "Symbol": "MRK" },
+  { "Name": "MetLife", "Sector": "Financials", "Symbol": "MET" },
+  { "Name": "Mettler Toledo", "Sector": "Health Care", "Symbol": "MTD" },
+  {
+    "Name": "MGM Resorts International",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "MGM"
+  },
+  {
+    "Name": "Microchip Technology",
+    "Sector": "Information Technology",
+    "Symbol": "MCHP"
+  },
+  {
+    "Name": "Micron Technology",
+    "Sector": "Information Technology",
+    "Symbol": "MU"
+  },
+  { "Name": "Microsoft", "Sector": "Information T
