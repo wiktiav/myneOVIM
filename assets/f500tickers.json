@@ -720,4 +720,35 @@
   { "Name": "NRG Energy", "Sector": "Utilities", "Symbol": "NRG" },
   { "Name": "Nucor", "Sector": "Materials", "Symbol": "NUE" },
   { "Name": "Nvidia", "Sector": "Information Technology", "Symbol": "NVDA" },
- 
+  { "Name": "NVR", "Sector": "Consumer Discretionary", "Symbol": "NVR" },
+  { "Name": "NXP", "Sector": "Information Technology", "Symbol": "NXPI" },
+  {
+    "Name": "O'Reilly Automotive",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "ORLY"
+  },
+  { "Name": "Occidental Petroleum", "Sector": "Energy", "Symbol": "OXY" },
+  {
+    "Name": "Old Dominion Freight Line",
+    "Sector": "Industrials",
+    "Symbol": "ODFL"
+  },
+  {
+    "Name": "Omnicom Group",
+    "Sector": "Communication Services",
+    "Symbol": "OMC"
+  },
+  { "Name": "Oneok", "Sector": "Energy", "Symbol": "OKE" },
+  { "Name": "Oracle", "Sector": "Information Technology", "Symbol": "ORCL" },
+  { "Name": "Organon & Co.", "Sector": "Health Care", "Symbol": "OGN" },
+  { "Name": "Otis Worldwide", "Sector": "Industrials", "Symbol": "OTIS" },
+  { "Name": "Paccar", "Sector": "Industrials", "Symbol": "PCAR" },
+  {
+    "Name": "Packaging Corporation of America",
+    "Sector": "Materials",
+    "Symbol": "PKG"
+  },
+  { "Name": "Parker-Hannifin", "Sector": "Industrials", "Symbol": "PH" },
+  { "Name": "Paychex", "Sector": "Information Technology", "Symbol": "PAYX" },
+  { "Name": "Paycom", "Sector": "Information Technology", "Symbol": "PAYC" },
+  { "Name": "PayPal", "Sector": "Information Technology", "Symbol": "PYPL" }
