@@ -641,4 +641,49 @@
     "Sector": "Information Technology",
     "Symbol": "MU"
   },
-  { "Name": "Microsoft", "Sector": "Information T
+  { "Name": "Microsoft", "Sector": "Information Technology", "Symbol": "MSFT" },
+  {
+    "Name": "Mid-America Apartments",
+    "Sector": "Real Estate",
+    "Symbol": "MAA"
+  },
+  { "Name": "Moderna", "Sector": "Health Care", "Symbol": "MRNA" },
+  {
+    "Name": "Mohawk Industries",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "MHK"
+  },
+  {
+    "Name": "Molson Coors Beverage Company",
+    "Sector": "Consumer Staples",
+    "Symbol": "TAP"
+  },
+  {
+    "Name": "Mondelez International",
+    "Sector": "Consumer Staples",
+    "Symbol": "MDLZ"
+  },
+  {
+    "Name": "Monolithic Power Systems",
+    "Sector": "Information Technology",
+    "Symbol": "MPWR"
+  },
+  {
+    "Name": "Monster Beverage",
+    "Sector": "Consumer Staples",
+    "Symbol": "MNST"
+  },
+  { "Name": "Moody's Corporation", "Sector": "Financials", "Symbol": "MCO" },
+  { "Name": "Morgan Stanley", "Sector": "Financials", "Symbol": "MS" },
+  {
+    "Name": "Motorola Solutions",
+    "Sector": "Information Technology",
+    "Symbol": "MSI"
+  },
+  { "Name": "MSCI", "Sector": "Financials", "Symbol": "MSCI" },
+  { "Name": "Nasdaq", "Sector": "Financials", "Symbol": "NDAQ" },
+  { "Name": "NetApp", "Sector": "Information Technology", "Symbol": "NTAP" },
+  { "Name": "Netflix", "Sector": "Communication Services", "Symbol": "NFLX" },
+  {
+    "Name": "Newell Brands",
+    "Sector": "Consumer Discreti
