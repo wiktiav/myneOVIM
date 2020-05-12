@@ -751,4 +751,43 @@
   { "Name": "Parker-Hannifin", "Sector": "Industrials", "Symbol": "PH" },
   { "Name": "Paychex", "Sector": "Information Technology", "Symbol": "PAYX" },
   { "Name": "Paycom", "Sector": "Information Technology", "Symbol": "PAYC" },
-  { "Name": "PayPal", "Sector": "Information Technology", "Symbol": "PYPL" }
+  { "Name": "PayPal", "Sector": "Information Technology", "Symbol": "PYPL" },
+  {
+    "Name": "Penn National Gaming",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "PENN"
+  },
+  { "Name": "Pentair", "Sector": "Industrials", "Symbol": "PNR" },
+  {
+    "Name": "People's United Financial",
+    "Sector": "Financials",
+    "Symbol": "PBCT"
+  },
+  { "Name": "PepsiCo", "Sector": "Consumer Staples", "Symbol": "PEP" },
+  { "Name": "PerkinElmer", "Sector": "Health Care", "Symbol": "PKI" },
+  { "Name": "Pfizer", "Sector": "Health Care", "Symbol": "PFE" },
+  {
+    "Name": "Philip Morris International",
+    "Sector": "Consumer Staples",
+    "Symbol": "PM"
+  },
+  { "Name": "Phillips 66", "Sector": "Energy", "Symbol": "PSX" },
+  { "Name": "Pinnacle West Capital", "Sector": "Utilities", "Symbol": "PNW" },
+  { "Name": "Pioneer Natural Resources", "Sector": "Energy", "Symbol": "PXD" },
+  { "Name": "PNC Financial Services", "Sector": "Financials", "Symbol": "PNC" },
+  {
+    "Name": "Pool Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "POOL"
+  },
+  { "Name": "PPG Industries", "Sector": "Materials", "Symbol": "PPG" },
+  { "Name": "PPL", "Sector": "Utilities", "Symbol": "PPL" },
+  {
+    "Name": "Principal Financial Group",
+    "Sector": "Financials",
+    "Symbol": "PFG"
+  },
+  { "Name": "Procter & Gamble", "Sector": "Consumer Staples", "Symbol": "PG" },
+  {
+    "Name": "Progressive Corporation",
+    
