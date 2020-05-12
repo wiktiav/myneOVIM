@@ -820,4 +820,42 @@
   },
   { "Name": "Raytheon Technologies", "Sector": "Industrials", "Symbol": "RTX" },
   {
-    "Name": "Realty Income 
+    "Name": "Realty Income Corporation",
+    "Sector": "Real Estate",
+    "Symbol": "O"
+  },
+  { "Name": "Regency Centers", "Sector": "Real Estate", "Symbol": "REG" },
+  {
+    "Name": "Regeneron Pharmaceuticals",
+    "Sector": "Health Care",
+    "Symbol": "REGN"
+  },
+  {
+    "Name": "Regions Financial Corporation",
+    "Sector": "Financials",
+    "Symbol": "RF"
+  },
+  { "Name": "Republic Services", "Sector": "Industrials", "Symbol": "RSG" },
+  { "Name": "ResMed", "Sector": "Health Care", "Symbol": "RMD" },
+  {
+    "Name": "Robert Half International",
+    "Sector": "Industrials",
+    "Symbol": "RHI"
+  },
+  { "Name": "Rockwell Automation", "Sector": "Industrials", "Symbol": "ROK" },
+  { "Name": "Rollins", "Sector": "Industrials", "Symbol": "ROL" },
+  { "Name": "Roper Technologies", "Sector": "Industrials", "Symbol": "ROP" },
+  {
+    "Name": "Ross Stores",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "ROST"
+  },
+  {
+    "Name": "Royal Caribbean Group",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "RCL"
+  },
+  { "Name": "S&P Global", "Sector": "Financials", "Symbol": "SPGI" },
+  { "Name": "Salesforce", "Sector": "Information Technology", "Symbol": "CRM" },
+  { "Name": "SBA Communications", "Sector": "Real Estate", "Symbol": "SBAC" },
+  { "Name": "Schlumberger", "Sector": "E
