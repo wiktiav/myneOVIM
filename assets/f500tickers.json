@@ -790,4 +790,34 @@
   { "Name": "Procter & Gamble", "Sector": "Consumer Staples", "Symbol": "PG" },
   {
     "Name": "Progressive Corporation",
-    
+    "Sector": "Financials",
+    "Symbol": "PGR"
+  },
+  { "Name": "Prologis", "Sector": "Real Estate", "Symbol": "PLD" },
+  { "Name": "Prudential Financial", "Sector": "Financials", "Symbol": "PRU" },
+  { "Name": "PTC", "Sector": "Information Technology", "Symbol": "PTC" },
+  {
+    "Name": "Public Service Enterprise Group",
+    "Sector": "Utilities",
+    "Symbol": "PEG"
+  },
+  { "Name": "Public Storage", "Sector": "Real Estate", "Symbol": "PSA" },
+  { "Name": "PulteGroup", "Sector": "Consumer Discretionary", "Symbol": "PHM" },
+  { "Name": "PVH", "Sector": "Consumer Discretionary", "Symbol": "PVH" },
+  { "Name": "Qorvo", "Sector": "Information Technology", "Symbol": "QRVO" },
+  { "Name": "Qualcomm", "Sector": "Information Technology", "Symbol": "QCOM" },
+  { "Name": "Quanta Services", "Sector": "Industrials", "Symbol": "PWR" },
+  { "Name": "Quest Diagnostics", "Sector": "Health Care", "Symbol": "DGX" },
+  {
+    "Name": "Ralph Lauren Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "RL"
+  },
+  {
+    "Name": "Raymond James Financial",
+    "Sector": "Financials",
+    "Symbol": "RJF"
+  },
+  { "Name": "Raytheon Technologies", "Sector": "Industrials", "Symbol": "RTX" },
+  {
+    "Name": "Realty Income 
