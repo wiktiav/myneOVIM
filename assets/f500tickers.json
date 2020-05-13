@@ -858,4 +858,37 @@
   { "Name": "S&P Global", "Sector": "Financials", "Symbol": "SPGI" },
   { "Name": "Salesforce", "Sector": "Information Technology", "Symbol": "CRM" },
   { "Name": "SBA Communications", "Sector": "Real Estate", "Symbol": "SBAC" },
-  { "Name": "Schlumberger", "Sector": "E
+  { "Name": "Schlumberger", "Sector": "Energy", "Symbol": "SLB" },
+  {
+    "Name": "Seagate Technology",
+    "Sector": "Information Technology",
+    "Symbol": "STX"
+  },
+  { "Name": "Sealed Air", "Sector": "Materials", "Symbol": "SEE" },
+  { "Name": "Sempra Energy", "Sector": "Utilities", "Symbol": "SRE" },
+  { "Name": "ServiceNow", "Sector": "Information Technology", "Symbol": "NOW" },
+  { "Name": "Sherwin-Williams", "Sector": "Materials", "Symbol": "SHW" },
+  { "Name": "Simon Property Group", "Sector": "Real Estate", "Symbol": "SPG" },
+  {
+    "Name": "Skyworks Solutions",
+    "Sector": "Information Technology",
+    "Symbol": "SWKS"
+  },
+  { "Name": "Snap-on", "Sector": "Industrials", "Symbol": "SNA" },
+  { "Name": "Southern Company", "Sector": "Utilities", "Symbol": "SO" },
+  { "Name": "Southwest Airlines", "Sector": "Industrials", "Symbol": "LUV" },
+  {
+    "Name": "Stanley Black & Decker",
+    "Sector": "Industrials",
+    "Symbol": "SWK"
+  },
+  { "Name": "Starbucks", "Sector": "Consumer Discretionary", "Symbol": "SBUX" },
+  {
+    "Name": "State Street Corporation",
+    "Sector": "Financials",
+    "Symbol": "STT"
+  },
+  { "Name": "Steris", "Sector": "Health Care", "Symbol": "STE" },
+  { "Name": "Stryker Corporation", "Sector": "Health Care", "Symbol": "SYK" },
+  { "Name": "SVB Financial", "Sector": "Financials", "Symbol": "SIVB" },
+  { "Name": "Synchrony Financial", "Sec
