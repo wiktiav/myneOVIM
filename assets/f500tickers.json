@@ -926,4 +926,44 @@
     "Symbol": "TXN"
   },
   { "Name": "Textron", "Sector": "Industrials", "Symbol": "TXT" },
-  { "Name": "The Cooper Companies",
+  { "Name": "The Cooper Companies", "Sector": "Health Care", "Symbol": "COO" },
+  { "Name": "The Hartford", "Sector": "Financials", "Symbol": "HIG" },
+  {
+    "Name": "The Hershey Company",
+    "Sector": "Consumer Staples",
+    "Symbol": "HSY"
+  },
+  { "Name": "The Mosaic Company", "Sector": "Materials", "Symbol": "MOS" },
+  {
+    "Name": "The Travelers Companies",
+    "Sector": "Financials",
+    "Symbol": "TRV"
+  },
+  {
+    "Name": "The Walt Disney Company",
+    "Sector": "Communication Services",
+    "Symbol": "DIS"
+  },
+  {
+    "Name": "Thermo Fisher Scientific",
+    "Sector": "Health Care",
+    "Symbol": "TMO"
+  },
+  {
+    "Name": "TJX Companies",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "TJX"
+  },
+  {
+    "Name": "Tractor Supply Company",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "TSCO"
+  },
+  { "Name": "Trane Technologies", "Sector": "Industrials", "Symbol": "TT" },
+  { "Name": "TransDigm Group", "Sector": "Industrials", "Symbol": "TDG" },
+  { "Name": "Trimble", "Sector": "Information Technology", "Symbol": "TRMB" },
+  { "Name": "Truist Financial", "Sector": "Financials", "Symbol": "TFC" },
+  { "Name": "Twitter", "Sector": "Communication Services", "Symbol": "TWTR" },
+  {
+    "Name": "Tyler Technologies",
+    "Sector": "Information Technolog
