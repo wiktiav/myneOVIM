@@ -891,4 +891,39 @@
   { "Name": "Steris", "Sector": "Health Care", "Symbol": "STE" },
   { "Name": "Stryker Corporation", "Sector": "Health Care", "Symbol": "SYK" },
   { "Name": "SVB Financial", "Sector": "Financials", "Symbol": "SIVB" },
-  { "Name": "Synchrony Financial", "Sec
+  { "Name": "Synchrony Financial", "Sector": "Financials", "Symbol": "SYF" },
+  { "Name": "Synopsys", "Sector": "Information Technology", "Symbol": "SNPS" },
+  { "Name": "Sysco", "Sector": "Consumer Staples", "Symbol": "SYY" },
+  {
+    "Name": "T-Mobile US",
+    "Sector": "Communication Services",
+    "Symbol": "TMUS"
+  },
+  { "Name": "T. Rowe Price", "Sector": "Financials", "Symbol": "TROW" },
+  {
+    "Name": "Take-Two Interactive",
+    "Sector": "Communication Services",
+    "Symbol": "TTWO"
+  },
+  { "Name": "Tapestry", "Sector": "Consumer Discretionary", "Symbol": "TPR" },
+  {
+    "Name": "Target Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "TGT"
+  },
+  {
+    "Name": "TE Connectivity",
+    "Sector": "Information Technology",
+    "Symbol": "TEL"
+  },
+  { "Name": "Teledyne Technologies", "Sector": "Industrials", "Symbol": "TDY" },
+  { "Name": "Teleflex", "Sector": "Health Care", "Symbol": "TFX" },
+  { "Name": "Teradyne", "Sector": "Information Technology", "Symbol": "TER" },
+  { "Name": "Tesla", "Sector": "Consumer Discretionary", "Symbol": "TSLA" },
+  {
+    "Name": "Texas Instruments",
+    "Sector": "Information Technology",
+    "Symbol": "TXN"
+  },
+  { "Name": "Textron", "Sector": "Industrials", "Symbol": "TXT" },
+  { "Name": "The Cooper Companies",
