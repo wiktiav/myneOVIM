@@ -966,4 +966,40 @@
   { "Name": "Twitter", "Sector": "Communication Services", "Symbol": "TWTR" },
   {
     "Name": "Tyler Technologies",
-    "Sector": "Information Technolog
+    "Sector": "Information Technology",
+    "Symbol": "TYL"
+  },
+  { "Name": "Tyson Foods", "Sector": "Consumer Staples", "Symbol": "TSN" },
+  { "Name": "U.S. Bancorp", "Sector": "Financials", "Symbol": "USB" },
+  { "Name": "UDR", "Sector": "Real Estate", "Symbol": "UDR" },
+  {
+    "Name": "Ulta Beauty",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "ULTA"
+  },
+  {
+    "Name": "Under Armour (Class A)",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "UAA"
+  },
+  {
+    "Name": "Under Armour (Class C)",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "UA"
+  },
+  { "Name": "Union Pacific", "Sector": "Industrials", "Symbol": "UNP" },
+  { "Name": "United Airlines", "Sector": "Industrials", "Symbol": "UAL" },
+  { "Name": "United Parcel Service", "Sector": "Industrials", "Symbol": "UPS" },
+  { "Name": "United Rentals", "Sector": "Industrials", "Symbol": "URI" },
+  { "Name": "UnitedHealth Group", "Sector": "Health Care", "Symbol": "UNH" },
+  {
+    "Name": "Universal Health Services",
+    "Sector": "Health Care",
+    "Symbol": "UHS"
+  },
+  { "Name": "Valero Energy", "Sector": "Energy", "Symbol": "VLO" },
+  { "Name": "Ventas", "Sector": "Real Estate", "Symbol": "VTR" },
+  { "Name": "Verisign", "Sector": "Information Technology", "Symbol": "VRSN" },
+  { "Name": "Verisk Analytics", "Sector": "Industrials", "Symbol": "VRSK" },
+  {
+    
