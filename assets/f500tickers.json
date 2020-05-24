@@ -1037,3 +1037,45 @@
   { "Name": "Waste Management", "Sector": "Industrials", "Symbol": "WM" },
   { "Name": "Waters Corporation", "Sector": "Health Care", "Symbol": "WAT" },
   { "Name": "WEC Energy Group", "Sector": "Utilities", "Symbol": "WEC" },
+  { "Name": "Wells Fargo", "Sector": "Financials", "Symbol": "WFC" },
+  { "Name": "Welltower", "Sector": "Real Estate", "Symbol": "WELL" },
+  {
+    "Name": "West Pharmaceutical Services",
+    "Sector": "Health Care",
+    "Symbol": "WST"
+  },
+  {
+    "Name": "Western Digital",
+    "Sector": "Information Technology",
+    "Symbol": "WDC"
+  },
+  {
+    "Name": "Western Union",
+    "Sector": "Information Technology",
+    "Symbol": "WU"
+  },
+  { "Name": "WestRock", "Sector": "Materials", "Symbol": "WRK" },
+  { "Name": "Weyerhaeuser", "Sector": "Real Estate", "Symbol": "WY" },
+  {
+    "Name": "Whirlpool Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "WHR"
+  },
+  { "Name": "Williams Companies", "Sector": "Energy", "Symbol": "WMB" },
+  { "Name": "Willis Towers Watson", "Sector": "Financials", "Symbol": "WLTW" },
+  {
+    "Name": "Wynn Resorts",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "WYNN"
+  },
+  { "Name": "Xcel Energy", "Sector": "Utilities", "Symbol": "XEL" },
+  { "Name": "Xilinx", "Sector": "Information Technology", "Symbol": "XLNX" },
+  { "Name": "Xylem", "Sector": "Industrials", "Symbol": "XYL" },
+  {
+    "Name": "Yum! Brands",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "YUM"
+  },
+  {
+    "Name": "Zebra Technologies",
+    "Sec
