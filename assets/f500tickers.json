@@ -1002,4 +1002,38 @@
   { "Name": "Verisign", "Sector": "Information Technology", "Symbol": "VRSN" },
   { "Name": "Verisk Analytics", "Sector": "Industrials", "Symbol": "VRSK" },
   {
-    
+    "Name": "Verizon Communications",
+    "Sector": "Communication Services",
+    "Symbol": "VZ"
+  },
+  {
+    "Name": "Vertex Pharmaceuticals",
+    "Sector": "Health Care",
+    "Symbol": "VRTX"
+  },
+  {
+    "Name": "VF Corporation",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "VFC"
+  },
+  { "Name": "ViacomCBS", "Sector": "Communication Services", "Symbol": "VIAC" },
+  { "Name": "Viatris", "Sector": "Health Care", "Symbol": "VTRS" },
+  { "Name": "Visa", "Sector": "Information Technology", "Symbol": "V" },
+  { "Name": "Vornado Realty Trust", "Sector": "Real Estate", "Symbol": "VNO" },
+  { "Name": "Vulcan Materials", "Sector": "Materials", "Symbol": "VMC" },
+  {
+    "Name": "W. R. Berkley Corporation",
+    "Sector": "Financials",
+    "Symbol": "WRB"
+  },
+  { "Name": "W. W. Grainger", "Sector": "Industrials", "Symbol": "GWW" },
+  { "Name": "Wabtec", "Sector": "Industrials", "Symbol": "WAB" },
+  {
+    "Name": "Walgreens Boots Alliance",
+    "Sector": "Consumer Staples",
+    "Symbol": "WBA"
+  },
+  { "Name": "Walmart", "Sector": "Consumer Staples", "Symbol": "WMT" },
+  { "Name": "Waste Management", "Sector": "Industrials", "Symbol": "WM" },
+  { "Name": "Waters Corporation", "Sector": "Health Care", "Symbol": "WAT" },
+  { "Name": "WEC Energy Group", "Sector": "Utilities", "Symbol": "WEC" },
