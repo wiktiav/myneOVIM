@@ -1078,4 +1078,10 @@
   },
   {
     "Name": "Zebra Technologies",
-    "Sec
+    "Sector": "Information Technology",
+    "Symbol": "ZBRA"
+  },
+  { "Name": "Zimmer Biomet", "Sector": "Health Care", "Symbol": "ZBH" },
+  { "Name": "Zions Bancorp", "Sector": "Financials", "Symbol": "ZION" },
+  { "Name": "Zoetis", "Sector": "Health Care", "Symbol": "ZTS" }
+]
