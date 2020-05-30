@@ -68,4 +68,20 @@ export default function AccountContent({Username, MemberSince, LifetimePoints, L
           <div className={style.listStyle}>
           <ul className={style.lifetimeInfo}>
             <li>Member Since: {MemberSince}</li>
-            <li>Life
+            <li>Lifetime Points: {LifetimePoints}</li>
+            <li>Total Guesses: {TotalGuesses}</li>           
+            <li>Guesses Correct (%) {calculateCorrect(TotalGuesses, CorrectGuesses)}</li>
+            <li>Leagues Won: {LeaguesWon}</li>
+          </ul>
+            <div className={style.specTest}>
+            <ul className={style.specs}>
+              <li>Weekly Rank {WeeklyRank}</li>
+              <li>Peak Rank {PeakRank}</li>
+              <li>Recent Rank (as of {pastWeekRank()}) {RecentRank}</li>
+            </ul>
+            </div>
+          </div>
+      </div>
+    </div>
+  );
+}
