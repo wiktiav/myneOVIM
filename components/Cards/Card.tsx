@@ -24,4 +24,19 @@ export default function Card(prop: CardInfo) {
             className={style.svg}
           />
         </a>
-        <a href={pro
+        <a href={prop.githubLink} target="_blank" rel="noreferrer">
+          <Image
+            src={github}
+            className={style.svg}
+            alt="GitHub"
+            loading="lazy"
+          />
+        </a>
+
+        <a href={`mailto:` + prop.email} target="_blank" rel="noreferrer">
+          <Image src={email} className={style.svg} alt="Email" loading="lazy" />
+        </a>
+      </div>
+    </div>
+  );
+}
