@@ -34,4 +34,38 @@ function calculateCorrect(TotalGuesses: number, CorrectGuesses: number) {
 
 function pastWeekRank() {
   let curDate = new Date();
-  let dayNumber = curDate.
+  let dayNumber = curDate.getDay();
+  let lastWeekDate = new Date();
+
+  lastWeekDate.setDate(curDate.getDate() - dayNumber);
+
+  return (lastWeekDate.getMonth() + 1)+ '/' + lastWeekDate.getDate() + '/' + lastWeekDate.getFullYear();
+}
+
+function getFirstLetter(Username: string) {
+  const letter = Username.charAt(0);
+  return letter;
+}
+
+export default function AccountContent({Username, MemberSince, LifetimePoints, LeaguesWon, TotalGuesses, CorrectGuesses, WeeklyRank, PeakRank, RecentRank}: AccountInfo) {
+
+  return (
+    <div className={style.parent}>
+      <div className={style.mainContent}>
+         {/* <h2>User Info</h2> */}
+         <div className={style.playerCard}>
+          <div className={style.default} id="test">
+            <button className={style.colorChanger} onClick={() => setDefaultBG(Username)}>
+              <p className={style.intial}>{getFirstLetter("Steven")}</p>
+            </button>
+            {/* <div className={style.colorMessage}>
+              <p>Click me to change your profile color!</p>
+            </div> */}
+          </div>
+          <h1>{Username}StevenTran</h1>
+          {/* maybe for titles too, add this for filler <h3>&#127881; Beta Tester &#127881;</h3> */}
+          </div>
+          <div className={style.listStyle}>
+          <ul className={style.lifetimeInfo}>
+            <li>Member Since: {MemberSince}</li>
+            <li>Life
