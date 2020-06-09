@@ -20,4 +20,55 @@ function calculateCount(): number {
     // Determine the number of 5.2 minute intervals that have passed since 9:00 am
     const intervalsSinceStart = Math.floor(minutesSinceStart / 5.2);
 
-    // Determine the next
+    // Determine the next 5.2 minute interval and wait until that time
+    const nextInterval = (intervalsSinceStart + 1) * 5.2;
+    const waitTime = (nextInterval - minutesSinceStart) * 60 * 1000;
+    setTimeout(calculateCount, waitTime);
+
+    // Calculate the count value
+    let count = 100 - intervalsSinceStart;
+    if (count < 25) {
+      count = 25;
+    }
+    return count;
+  } else {
+    return 25;
+  }
+}
+
+const Progress = ({ percent = calculateCount() }) => {
+  // implementation of how much of progresssvg covers the originial svg
+  const arc = 100;
+  const percentNormalized = Math.min(Math.max(percent, 0), 100);
+  const offset = arc - (percentNormalized / 100) * arc;
+  return (
+    <svg viewBox="0 0 500 500">
+      <circle
+        className={styles.progress}
+        cx="250"
+        cy="250"
+        r="250"
+        pathLength="100"
+        strokeDasharray={`${offset} ${arc}`}
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+};
+
+export default function LoadingInfobar(prop: StockInfo) {
+  return (
+    <div className={styles.loadingBar}>
+      <svg viewBox="0 0 500 500">
+        <circle
+          cx="250"
+          cy="250"
+          r="250"
+          pathLength="100"
+          strokeDasharray="75 25"
+          strokeLinecap="round"
+        />
+        <Progress />
+      </svg>
+      <div className={styles.innerBarContent}>
+        <h2>{
