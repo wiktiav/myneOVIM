@@ -71,4 +71,10 @@ export default function LoadingInfobar(prop: StockInfo) {
         <Progress />
       </svg>
       <div className={styles.innerBarContent}>
-        <h2>{
+        <h2>{prop.StockName}</h2>
+        <p>Current Price: {prop.CurrentPrice}</p>
+        <p>Starting Price: {prop.StartingPrice}</p>
+      </div>
+    </div>
+  );
+}
