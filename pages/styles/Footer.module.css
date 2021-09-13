@@ -1,0 +1,34 @@
+.footer {
+  position: sticky;
+  bottom: 0;
+  width: 100vw;
+  height: 40vh;
+  margin-top: 10%;
+}
+
+.footer h3 {
+  padding-left: 5%;
+  font-size: 1.8rem;
+}
+
+.cardBox {
+  position: relative;
+  display: flex;
+  top: 20%;
+  height: 50%;
+  justify-content: space-evenly;
+  width: inherit;
+  gap: 2rem;
+  margin-top: 1rem;
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+@media (max-width: 882px) {
+  .cardBox,
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+  .cardBox {
+    justify-
