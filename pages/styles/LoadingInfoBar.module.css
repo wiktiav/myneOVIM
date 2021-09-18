@@ -1,0 +1,40 @@
+.loadingBar svg,
+.progress {
+  position: absolute;
+  fill: none;
+  stroke: white;
+  stroke-width: 2em;
+  width: 80%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: visible;
+  transform: rotate(135deg);
+}
+
+.progress {
+  stroke: #00ff00;
+  transform: rotate(225deg);
+}
+
+.loadingBar {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.innerBarContent {
+  position: relative;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 20%;
+  height: 20%;
+}
+
+.innerBarConte

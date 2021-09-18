@@ -66,4 +66,6 @@
 @media (max-width: 380px) {
   .headerLinks {
     font-size: 1em;
-  
+    margin-right: 0.5em;
+  }
+}
