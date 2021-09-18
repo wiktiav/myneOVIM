@@ -37,4 +37,8 @@
   height: 20%;
 }
 
-.innerBarConte
+.innerBarContent h2 {
+  margin-bottom: 35%;
+}
+@media (max-width: 900px) {
+}
