@@ -31,4 +31,11 @@
     flex-direction: column;
   }
   .cardBox {
-    justify-
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .footer h3 {
+    text-align: center;
+  }
+}
