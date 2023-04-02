@@ -1,2 +1,7 @@
 import { Module } from '@nestjs/common';
-import 
+import { AuthService } from './auth.service';
+
+@Module({
+  providers: [AuthService]
+})
+export class AuthModule {}
